@@ -6,7 +6,7 @@ This App shows the current Trending movie & its information.
 
 The Home Page
 
-![Home page] (https://i.imgur.com/6dkkr54.png)
+![Home page](https://i.imgur.com/6dkkr54.png)
 
 You can view detail of a movie. single movie detail view
 
